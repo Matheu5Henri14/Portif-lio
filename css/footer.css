@@ -36,3 +36,9 @@
         gap: 40px;
     }
 }
+
+@media (max-width: 500px){
+    .footer-contato li{
+        font-size: 1.50rem;
+    }
+}
