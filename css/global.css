@@ -17,6 +17,7 @@ ul{
 
 img{
     max-width: 100%;
+    height: auto;
     display: block;
 }
 
@@ -31,6 +32,6 @@ img{
     .subtitulo{
         font-size: 3rem;
         text-transform: capitalize;
-        max-width: initial;
+        max-width: initial !important;
     }
 }
